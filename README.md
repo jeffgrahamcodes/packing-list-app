@@ -22,7 +22,7 @@ The **Packing List App** is a simple React application that helps users create a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/packing-list-app.git
+   git clone https://github.com/jeffgrahamcodes/packing-list-app.git
    cd packing-list-app
    ```
 2. Install dependencies:
